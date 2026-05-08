@@ -50,6 +50,12 @@ The project includes:
 
 ---
 
+## 🏗️ Architecture Diagram
+
+![Architecture Diagram](../diagrams/aws-a1-architecture-diagram.png)
+
+---
+
 ## 🖼️ Screenshots
 
 ### Terraform Validation
