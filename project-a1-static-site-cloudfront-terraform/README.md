@@ -65,7 +65,7 @@ The project includes:
 ![Terraform Outputs](../screenshots/terraform-outputs.png)
 
 ### Live Terraform Website
-![Terraform Website](../screenshots/terraform-webpage.png)
+![Terraform Website](../screenshots/terraform-webpage1.png)
 ---
 
 ## 🔑 Key Takeaways
