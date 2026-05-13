@@ -52,7 +52,8 @@ The project includes:
 
 ## 🏗️ Architecture Diagram
 
-![Architecture Diagram](../diagrams/aws-a1-architecture.png)
+![Architecture Diagram](../screenshots/aws-a1-architecture-diagram.png)
+
 
 ---
 
